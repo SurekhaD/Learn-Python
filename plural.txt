@@ -1,0 +1,15 @@
+Python Modules:
+
+optparse : parse commandline arguements
+OS : Provides python language bindings to the linux system call interface, i.e. Interface to operating system services
+socket : Provides language bindings to the traditional BSD sockets's API
+shutil : cp and move files and directories
+glob : shell-style wildcard expansion
+
+
+Python Development Environments:
+
+1. Python interpreter : plain old test editor
+2. iPython : Enhanced interpreter - bridge between python and bash
+3. IDLE : Minimal Integrated Environment
+4. PyCharm : Fully Integrated Environment
